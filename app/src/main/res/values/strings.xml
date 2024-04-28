@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoEngageAssignment</string>
+    <string name="heading">Top News</string>
+    <string name="ascending">Ascending Sort</string>
+    <string name="descending">Descending Sort</string>
+    <string name="default_notification_channel_id">All Notifications</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692385987653",
+    "project_id": "moengageassignment-5bc5a",
+    "storage_bucket": "moengageassignment-5bc5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692385987653:android:c1d283096c3d22229d372c",
+        "android_client_info": {
+          "package_name": "com.harshit.moengageassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfw7GBug78AZ-yhqkWa1fLwAJlykx7c3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
